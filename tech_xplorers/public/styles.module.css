@@ -1,0 +1,14 @@
+/* styles.module.css */
+.user-message {
+  background-color: #DCF8C6;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.bot-message {
+  background-color: #E5E7EB;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,108 @@
+{
+    "good morning": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+    ],
+    "good afternoon": [
+        "Hello! How can I assist you today?",
+        "Hi there! What can I help you with?",
+        "Greetings! How may I be of service?"
+    ],
+	"hello": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+	"hi": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+	"whatsup": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+	"hey": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+	"ohayo": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+	"yo waimo": [
+		"Hello! How can I assist you today?",
+		"Hi there! What can I help you with?",
+		"Greetings! How may I be of service?"
+	],
+    "farewell": [
+		"Goodbye! Have a great day!",
+		"Farewell! Take care!",
+		"Until next time! Stay safe!"
+    ],
+	"goodbye": [
+		"Goodbye! Have a great day!",
+		"Farewell! Take care!",
+		"Until next time! Stay safe!"
+	],
+	"bye": [
+		"Goodbye! Have a great day!",
+		"Farewell! Take care!",
+		"Until next time! Stay safe!"
+	],
+	"that is all": [
+		"Goodbye! Have a great day!",
+		"Farewell! Take care!",
+		"Until next time! Stay safe!"
+	],
+	"we're done": [
+		"Goodbye! Have a great day!",
+		"Farewell! Take care!",
+		"Until next time! Stay safe!"
+	],
+    "i need a diagnosis": [
+		"can you tell me what it is, so i can be of assistance",
+		"Alright, give me more information about the symptoms",
+		""
+    ],
+    "i feel feverish": [
+        "Based on the information provided, it seems like you may have a common cold. Here are some home remedies...",
+        "sorry to hear this, provide me more symptoms and we can work towards your recovery",
+        "It's difficult to determine without more information. Can you provide additional details?"
+    ],
+    "headache, sweating profusely, body aches, nausea and cough": [
+		"these are related to malaria, a mosquito-borne disease",
+		"I suggest you go for a physical checkup",
+		"These are drugs for treating malaria: \nQuinine, Mefloquine, Doxycycline, Primaquine, Chloroquine"
+    ],
+	"abdominal pain, indigestion, loss of appetite, weight loss, heart burn, fatigue": [
+		"these are ulcer related symptoms",
+		"here are some drugs that helps treat ulcers: \nproton pump inhibitors \nantacids \nH2 blockers \nAntibiotics \nnote that medication plans and treatment depend on the severity of the ulcer. \nHere are some professionals that can treat your condition;...."
+    ],
+	"i have pains in my chest": [
+		"chest pain can be caused by heart attacks, pnuemonia, coronary artery disease, heart burn and lung infection"
+    ],
+	"i need a prescription for pain relievers": [
+		"can you tell me where you feel the pain?"
+    ],
+	"my bones ache": [
+		"these are a few drugs that will help with the pain: \n acetaminophen \n ibuprofen \n naproxen \n aspirin"
+	],
+	"abdominal pain" : [
+		"your condition is not severe, would you like drugs to be delivered directly to your pickup location?"
+	],
+	"indigestion" : [
+		"your condition is not severe, would you like drugs to be delivered directly to your pickup location?"
+	],
+	"loss of appetite" : [
+		"your condition is not severe, would you like drugs to be delivered directly to your pickup location?"
+	],
+	"cough" : [
+		"your condition is not severe, would you like drugs to be delivered directly to your pickup location?"
+	]
+  }
+  
