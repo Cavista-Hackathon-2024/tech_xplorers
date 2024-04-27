@@ -66,8 +66,7 @@
 	],
     "i need a diagnosis": [
 		"can you tell me what it is, so i can be of assistance",
-		"Alright, give me more information about the symptoms",
-		""
+		"Alright, give me more information about the symptoms"
     ],
     "i feel feverish": [
         "Based on the information provided, it seems like you may have a common cold. Here are some home remedies...",
